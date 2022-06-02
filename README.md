@@ -26,7 +26,7 @@ Recently, Deep Learning can generate deep fake videos that can change the face o
         </td>
     </tr>
     <tr>
-    <td> 
+    <td colspan="3"> 
     <h2 style="text-align:center" > Video From Disk</h2> 
     </td> 
     </tr>
@@ -45,7 +45,7 @@ Recently, Deep Learning can generate deep fake videos that can change the face o
         </td>
     </tr>
     <tr>
-     <td>
+     <td colspan="3">
       <h2 style="text-align:center" > Video From Youtube</h2>
      </td>
     </tr>
