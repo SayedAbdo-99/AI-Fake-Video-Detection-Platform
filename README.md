@@ -27,7 +27,7 @@ Recently, Deep Learning can generate deep fake videos that can change the face o
             <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/GUIPrototype/3-selection.png" alt="c" >
         </td>
     </tr>
-    <tr> <td> <h2 style="text-align:center" > Video From Disk</h2 </td> </tr>
+    <tr> <td> <h2 style="text-align:center" > Video From Disk</h2> </td> </tr>
     <tr>
         <td width="30%" valign="top"> 
             <h3 style="text-align:center" > Video Path</h3>
@@ -42,7 +42,7 @@ Recently, Deep Learning can generate deep fake videos that can change the face o
             <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/GUIPrototype/4-disk-result.png" alt="c" >
         </td>
     </tr>
-    <tr> <td> <h2 style="text-align:center" > Video From Youtube</h2 </td> </tr>
+    <tr> <td> <h2 style="text-align:center" > Video From Youtube</h2> </td> </tr>
     <tr>
         <td width="30%" valign="top"> 
             <h3 style="text-align:center" > Video URL</h3>
