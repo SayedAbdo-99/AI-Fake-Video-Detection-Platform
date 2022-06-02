@@ -17,27 +17,18 @@ Recently, Deep Learning can generate deep fake videos that can change the face o
     </td>
     <td width="50%" valign="top"> 
         <h3 style="text-align:center" > Usecase Diagram </h3>
-        <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/activity%20diagram.png" alt="c" >
+        <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/usecase%20diagram.png" alt="c" >
     </td>
   </tr>
  
   <tr>
     <td width="50%" valign="top"> 
-        <h3 style="text-align:center" > Activity Diagram</h3>
-        <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/activity%20diagram.png" alt="c" >
+        <h3 style="text-align:center" > Component Architecture Diagram</h3>
+        <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/component%20architecture%20diagram.jpg" alt="c" >
     </td>
     <td width="50%" valign="top"> 
-        <h3 style="text-align:center" > Usecase Diagram </h3>
-        <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/activity%20diagram.png" alt="c" >
+        <h3 style="text-align:center" > Sequence Diagram </h3>
+        <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/sequence%20diagram.png" alt="c" >
     </td>
   </tr>
 </table>
-
-
-
-
-### Component Architecture Diagram
-<img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/activity%20diagram.png" alt="c" >
-
-### Sequence Diagram
-<img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/activity%20diagram.png" alt="c" >
