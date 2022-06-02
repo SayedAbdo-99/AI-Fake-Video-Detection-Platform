@@ -12,22 +12,24 @@ Recently, Deep Learning can generate deep fake videos that can change the face o
 
 <table style="border: none">
     <tr>
-        <td width="50%" valign="top"> 
+        <td width="30%" valign="top"> 
             <h3 style="text-align:center" > Login</h3>
             <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/GUIPrototype/1-login.png" alt="c" >
         </td>
-        <td width="50%" valign="top"> 
+        <td width="30%" valign="top"> 
             <h3 style="text-align:center" > Registration </h3>
             <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/GUIPrototype/2-registration.PNG" alt="c" >
         </td>
-    </tr>
-    <tr>
-        <td width="100%" valign="top"> 
+         <td width="40%" valign="top"> 
             <h3 style="text-align:center" > Video Source</h3>
             <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/GUIPrototype/3-selection.png" alt="c" >
         </td>
     </tr>
-    <tr> <td> <h2 style="text-align:center" > Video From Disk</h2> </td> </tr>
+    <tr>
+    <td> 
+    <h2 style="text-align:center" > Video From Disk</h2> 
+    </td> 
+    </tr>
     <tr>
         <td width="30%" valign="top"> 
             <h3 style="text-align:center" > Video Path</h3>
@@ -42,7 +44,11 @@ Recently, Deep Learning can generate deep fake videos that can change the face o
             <img src="https://github.com/SayedAbdo-99/AI-Fake-Video-Detection-Platform/blob/main/GUIPrototype/4-disk-result.png" alt="c" >
         </td>
     </tr>
-    <tr> <td> <h2 style="text-align:center" > Video From Youtube</h2> </td> </tr>
+    <tr>
+     <td>
+      <h2 style="text-align:center" > Video From Youtube</h2>
+     </td>
+    </tr>
     <tr>
         <td width="30%" valign="top"> 
             <h3 style="text-align:center" > Video URL</h3>
